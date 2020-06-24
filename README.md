@@ -7,4 +7,7 @@ Get used to Git
 GOAL>>
 1 day 1 commit
 
+Target>>
+Kakao, Naver, LG U+, SKT
+
 Start at 2020 summer vacation.
