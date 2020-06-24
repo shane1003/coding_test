@@ -1,10 +1,10 @@
 # coding_test
 
-<<Purpose>>
+Purpose>>
 Prepare for coding test in Korea.
 Get used to Git
 
-<<GOAL>>
+GOAL>>
 1 day 1 commit
 
 Start at 2020 summer vacation.
